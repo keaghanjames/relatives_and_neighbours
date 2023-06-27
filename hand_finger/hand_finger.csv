@@ -1,0 +1,594 @@
+﻿wals code,name,value,description,latitude,longitude,genus,family,area
+xoo,!X√≥√µ,2,Different,-24,21.5,Tu,Tu,Lexicon
+arx,'Are'are,2,Different,-9.25,161.1666667,Oceanic,Austronesian,Lexicon
+abw,Abenaki (Western),2,Different,44,-72.25,Algonquian,Algic,Lexicon
+abi,Abip√≥n,2,Different,-29,-61,Abipon,Guaicuruan,Lexicon
+abk,Abkhaz,2,Different,43.08333333,41,Northwest Caucasian,Northwest Caucasian,Lexicon
+acg,Achagua,2,Different,4.416666667,-72.25,Japura-Colombia,Arawakan,Lexicon
+acu,Achuar,2,Different,-2.66667,-76,Jivaroan,Jivaroan,Lexicon
+acm,Achumawi,2,Different,41.5,-121,Achumawi,Hokan,Lexicon
+afr,Afrikaans,2,Different,-31,22,Germanic,Indo-European,Lexicon
+agr,Aguaruna,2,Different,-5,-78,Jivaroan,Jivaroan,Lexicon
+aht,Ahtna,2,Different,62,-145,Athapaskan,Na-Dene,Lexicon
+abm,Alabama,2,Different,32.33333333,-87.41666667,Muskogean,Muskogean,Lexicon
+ale,Aleut,2,Different,54,-166,Aleut,Eskimo-Aleut,Lexicon
+alg,Algonquin,2,Different,46,-77,Algonquian,Algic,Lexicon
+atq,Alutiiq,2,Different,57,-157,Eskimo,Eskimo-Aleut,Lexicon
+aly,Alyawarra,1,Identical,-22.5,135,Central Pama-Nyungan,Pama-Nyungan,Lexicon
+amc,Amahuaca,1,Identical,-10.5,-72.5,Panoan,Pano-Tacanan,Lexicon
+amk,Amarakaeri,2,Different,-12.5,-70.5,Harakmbet,Harakmbet,Lexicon
+amh,Amharic,2,Different,10,38,Semitic,Afro-Asiatic,Lexicon
+amu,Amuesha,2,Different,-10.5,-75.41666667,Yanesha',Arawakan,Lexicon
+apc,Apache (Chiricahua),2,Different,33.25,-108,Athapaskan,Na-Dene,Lexicon
+apj,Apache (Jicarilla),2,Different,36.58333333,-104,Athapaskan,Na-Dene,Lexicon
+apw,Apache (Western),1,Identical,33.75,-110,Athapaskan,Na-Dene,Lexicon
+api,Apinay√©,2,Different,-5.5,-48,Je Setentrional,Macro-Ge,Lexicon
+amr,Arabic (Moroccan),2,Different,34,-6,Semitic,Afro-Asiatic,Lexicon
+akr,Arikara,2,Different,45.5,-100.5,Northern Caddoan,Caddoan,Lexicon
+arw,Armenian (Western),2,Different,38.5,43.5,Armenian,Indo-European,Lexicon
+aro,Arosi,2,Different,-10.25,161.3333333,Oceanic,Austronesian,Lexicon
+amp,Arrernte (Mparntwe),1,Identical,-24,136,Central Pama-Nyungan,Pama-Nyungan,Lexicon
+atk,Atakapa,1,Identical,30,-93.5,Atakapa,Atakapa,Lexicon
+ati,Atikamekw,1,Identical,48,-74,Algonquian,Algic,Lexicon
+ats,Atsugewi,2,Different,40.75,-121,Atsugewi,Hokan,Lexicon
+awa,Awa,2,Different,-6.666666667,145.75,Gauwa,Trans-New Guinea,Lexicon
+awp,Awa Pit,2,Different,1.5,-78.25,Barbacoan,Barbacoan,Lexicon
+aym,Aymara (Central),2,Different,-17,-69,Aymaran,Aymaran,Lexicon
+ayo,Ayom√°n,2,Different,11,-69,Jirajaran,Jirajaran,Lexicon
+aze,Azerbaijani,2,Different,40.5,48.5,Turkic,Altaic,Lexicon
+blj,Baale,2,Different,6.5,34.5,South Surmic,Eastern Sudanic,Lexicon
+bab,Babungo,2,Different,6.116666667,10.41666667,Wide Grassfields,Niger-Congo,Lexicon
+bgr,Bagiro,2,Different,4.333333333,20.58333333,Bongo-Bagirmi,Central Sudanic,Lexicon
+bpb,Bahnar,2,Different,13.83333333,108.3333333,Bahnaric,Austro-Asiatic,Lexicon
+bam,Bambara,2,Different,12.5,-7.5,Western Mande,Mande,Lexicon
+bnj,Bandjalang,1,Identical,-28.75,153,Southeastern Pama-Nyungan,Pama-Nyungan,Lexicon
+bca,Bandjalang (Casino),2,Different,-28.91666667,153,Southeastern Pama-Nyungan,Pama-Nyungan,Lexicon
+bwa,Bandjalang (Waalubal),1,Identical,-29.08333333,152.5833333,Southeastern Pama-Nyungan,Pama-Nyungan,Lexicon
+byu,Bandjalang (Yugumbir),1,Identical,-27.91666667,153,Southeastern Pama-Nyungan,Pama-Nyungan,Lexicon
+bnv,Baniva,2,Different,5.26,-67.56,Alto-Orinoco,Arawakan,Lexicon
+brs,Barasano,2,Different,-0.166666667,-70.66666667,Tucanoan,Tucanoan,Lexicon
+bae,Bar√©,2,Different,1,-67,Japura-Colombia,Arawakan,Lexicon
+mti,Bar√≠,2,Different,9,-73,Bar√≠,Chibchan,Lexicon
+bsq,Basque,2,Different,43,-3,Basque,Basque,Lexicon
+blr,Belorussian,2,Different,54,28,Slavic,Indo-European,Lexicon
+bem,Bemba,2,Different,-10,28.25,Bantu,Niger-Congo,Lexicon
+bnq,Beng,2,Different,7.833333333,-4.25,Eastern Mande,Mande,Lexicon
+beo,Beothuk,1,Identical,48,-57,Beothuk,Beothuk,Lexicon
+bkl,Bikol,2,Different,13.33333333,123.5,Greater Central Philippine,Austronesian,Lexicon
+blx,Biloxi,2,Different,30.5,-88.66666667,Ohio Valley Siouan,Siouan,Lexicon
+bkd,Binukid,2,Different,8.25,124.8333333,Greater Central Philippine,Austronesian,Lexicon
+bla,Blackfoot,2,Different,50,-112.6666667,Algonquian,Algic,Lexicon
+bok,Boko,2,Different,10.5,3.5,Eastern Mande,Mande,Lexicon
+btk,Bontok,2,Different,17.08333333,120.9166667,Northern Luzon,Austronesian,Lexicon
+bor,Bora,2,Different,-2.166666667,-72.33333333,Boran,Boran,Lexicon
+brc,Boruca,2,Different,8.833333333,-83.25,Western Isthmic Chibchan,Chibchan,Lexicon
+bre,Breton,2,Different,48,-3,Celtic,Indo-European,Lexicon
+bnb,Bunuba,1,Identical,-17.75,125.75,Bunuban,Bunuban,Lexicon
+but,Buriat,2,Different,52,108,Mongolic,Altaic,Lexicon
+bur,Burushaski,2,Different,36.5,74.5,Burushaski,Burushaski,Lexicon
+cab,Cab√©car,2,Different,9.75,-83.41666667,Western Isthmic Chibchan,Chibchan,Lexicon
+cac,Cacua,2,Different,1.083333333,-70,Cacua-Nukak,Cacua-Nukak,Lexicon
+cah,Cahuilla,1,Identical,33.5,-116.25,Northern Uto-Aztecan,Uto-Aztecan,Lexicon
+cak,Cakchiquel,2,Different,14.5,-91,Mayan,Mayan,Lexicon
+cax,Campa (Axininca),2,Different,-12,-74,Pre-Andine Arawakan,Arawakan,Lexicon
+cpa,Campa Pajonal Asheninca,2,Different,-10.66666667,-74.25,Pre-Andine Arawakan,Arawakan,Lexicon
+cam,Cams√°,2,Different,1.166666667,-77,Cams√°,Cams√°,Lexicon
+cnl,Canela,2,Different,-7,-45,Je Setentrional,Macro-Ge,Lexicon
+cnt,Cantonese,2,Different,23,113,Chinese,Sino-Tibetan,Lexicon
+cap,Capanahua,2,Different,-7,-74,Panoan,Pano-Tacanan,Lexicon
+crp,Carapana,2,Different,0.833333333,-70.75,Tucanoan,Tucanoan,Lexicon
+car,Carib,2,Different,5.5,-56,Cariban,Cariban,Lexicon
+crj,Carijona,1,Identical,1,-73,Cariban,Cariban,Lexicon
+crl,Carolinian,2,Different,15.2,145.75,Oceanic,Austronesian,Lexicon
+crq,Carrier,2,Different,53.75,-123.5,Athapaskan,Na-Dene,Lexicon
+cas,Cashibo,2,Different,-8.5,-75.5,Panoan,Pano-Tacanan,Lexicon
+csh,Cashinahua,2,Different,-10.5,-71.83333333,Panoan,Pano-Tacanan,Lexicon
+ctl,Catalan,2,Different,41.75,2,Romance,Indo-European,Lexicon
+ctw,Catawba,2,Different,35.5,-80.5,Catawban,Siouan,Lexicon
+cat,Catio,2,Different,7.166666667,-76.33333333,Choco,Choco,Lexicon
+cav,Cavine√±a,2,Different,-13.33333333,-66.5,Tacanan,Pano-Tacanan,Lexicon
+cay,Cayapa,2,Different,0.666666667,-79,Barbacoan,Barbacoan,Lexicon
+ceb,Cebuano,2,Different,10,124,Greater Central Philippine,Austronesian,Lexicon
+cai,Chai,2,Different,5.333333333,35.33333333,South Surmic,Eastern Sudanic,Lexicon
+chw,Cham (Western),2,Different,12,105.5,Malayo-Sumbawan,Austronesian,Lexicon
+cha,Chamorro,2,Different,13.45,144.75,Chamorro,Austronesian,Lexicon
+ctt,Chatino (Tataltepec),2,Different,16.16666667,-97.58333333,Zapotecan,Oto-Manguean,Lexicon
+chy,Chayahuita,1,Identical,-5.5,-77,Cahuapanan,Cahuapanan,Lexicon
+chl,Chehalis (Upper),2,Different,46.58333333,-123,Tsamosan,Salishan,Lexicon
+cmh,Chemehuevi,2,Different,34.33333333,-115.1666667,Northern Uto-Aztecan,Uto-Aztecan,Lexicon
+che,Cherokee,2,Different,35.5,-83.5,Southern Iroquoian,Iroquoian,Lexicon
+cyn,Cheyenne,2,Different,47,-95,Algonquian,Algic,Lexicon
+cck,Chickasaw,2,Different,34,-88,Muskogean,Muskogean,Lexicon
+cec,Chicomuceltec,2,Different,15.5,-92.25,Mayan,Mayan,Lexicon
+chi,Chimariko,2,Different,41,-123,Chimariko,Hokan,Lexicon
+cma,Chimila,2,Different,10,-74,Chimila,Chibchan,Lexicon
+cle,Chinantec (Lealao),2,Different,17.33333333,-95.91666667,Chinantecan,Oto-Manguean,Lexicon
+csf,Chinantec (San Felipe Usila),2,Different,17.91666667,-96.5,Chinantecan,Oto-Manguean,Lexicon
+chp,Chipewyan,2,Different,59,-106,Athapaskan,Na-Dene,Lexicon
+crg,Chiriguano,2,Different,-23.66666667,-64.33333333,Maweti-Guarani,Tupian,Lexicon
+cch,Chocho,2,Different,17.66666667,-97.41666667,Popolocan,Oto-Manguean,Lexicon
+cct,Choctaw,2,Different,32.25,-88.5,Muskogean,Muskogean,Lexicon
+col,Chol,2,Different,17.75,-92.5,Mayan,Mayan,Lexicon
+cho,Chontal (Highland),2,Different,16.25,-95.75,Tequistlatecan,Hokan,Lexicon
+cmy,Chontal Maya,2,Different,18.16666667,-92.58333333,Mayan,Mayan,Lexicon
+crt,Chorote,2,Different,-22.5,-62.5,Matacoan,Matacoan,Lexicon
+chr,Chrau,2,Different,10.75,107.5,Bahnaric,Austro-Asiatic,Lexicon
+chj,Chuj,2,Different,15.91666667,-91.58333333,Mayan,Mayan,Lexicon
+cin,Chumash (Inese√±o),2,Different,34.66666667,-120.25,Chumash,Chumash,Lexicon
+cuu,Chuukese,2,Different,7.333333333,151.75,Oceanic,Austronesian,Lexicon
+cla,Clallam,2,Different,48.08333333,-123.75,Central Salish,Salishan,Lexicon
+ccp,Cocopa,1,Identical,32.33333333,-115,Yuman,Hokan,Lexicon
+cof,Cof√°n,2,Different,0.166666667,-77.16666667,Cof√°n,Cof√°n,Lexicon
+cog,Cogui,2,Different,11,-73.83333333,Arhuacic,Chibchan,Lexicon
+clc,Colac,2,Different,-38.33333333,143.5,Southeastern Pama-Nyungan,Pama-Nyungan,Lexicon
+cmn,Comanche,2,Different,33.5,-101.5,Northern Uto-Aztecan,Uto-Aztecan,Lexicon
+cmc,Comecrudo,1,Identical,25.83333333,-99,Comecrudan,Hokan,Lexicon
+cor,Cora,2,Different,22.16666667,-104.8333333,Corachol,Uto-Aztecan,Lexicon
+crn,Cornish,2,Different,50.33333333,-5,Celtic,Indo-European,Lexicon
+cre,Cree (Plains),2,Different,54,-110,Algonquian,Algic,Lexicon
+crk,Creek,2,Different,34,-85,Muskogean,Muskogean,Lexicon
+cro,Crow,2,Different,47,-108,Missouri River Siouan,Siouan,Lexicon
+cub,Cubeo,2,Different,1.333333333,-70.5,Tucanoan,Tucanoan,Lexicon
+cui,Cuiba,2,Different,6.5,-70,Guahiban,Guahiban,Lexicon
+ctc,Cuicatec,2,Different,17.83333333,-96.83333333,Cuicatec,Oto-Manguean,Lexicon
+cut,Cuitlatec,2,Different,17.5,-101,Cuitlatec,Cuitlatec,Lexicon
+cur,Curripaco,2,Different,2.5,-68.5,Japura-Colombia,Arawakan,Lexicon
+cze,Czech,2,Different,50,15,Slavic,Indo-European,Lexicon
+dak,Dakota,2,Different,45,-93.5,Mississippi Valley Siouan,Siouan,Lexicon
+dam,Damana,2,Different,11,-73.5,Arhuacic,Chibchan,Lexicon
+dsh,Danish,2,Different,56,10,Germanic,Indo-European,Lexicon
+dgx,Degexit'an,2,Different,62,-160,Athapaskan,Na-Dene,Lexicon
+des,Desano,2,Different,0.833333333,-69.83333333,Tucanoan,Tucanoan,Lexicon
+die,Diegue√±o (Mesa Grande),1,Identical,32.66666667,-116.1666667,Yuman,Hokan,Lexicon
+dig,Digaro,2,Different,28.41666667,96,Digaroan,Sino-Tibetan,Lexicon
+csk,Diola-Kasa,2,Different,12.5,-16.75,Jola,Niger-Congo,Lexicon
+dja,Djabugay,1,Identical,-16.75,145.5833333,Northern Pama-Nyungan,Pama-Nyungan,Lexicon
+djp,Djapu,2,Different,-12.66666667,136,Western Pama-Nyungan,Pama-Nyungan,Lexicon
+dji,Djingili,1,Identical,-17.75,134,Djingili,Mirndi,Lexicon
+dre,Drehu,2,Different,-21,167.25,Oceanic,Austronesian,Lexicon
+dca,Dumagat (Casiguran),2,Different,16.33333333,122,Northern Luzon,Austronesian,Lexicon
+dut,Dutch,2,Different,52.5,6,Germanic,Indo-European,Lexicon
+efi,Efik,2,Different,4.916666667,8.5,Lower Cross,Niger-Congo,Lexicon
+eka,Ekari,2,Different,-3.833333333,135.5,Paniai Lakes,Trans-New Guinea,Lexicon
+emb,Ember√° (Northern),2,Different,6.833333333,-77.16666667,Choco,Choco,Lexicon
+ena,Enga,2,Different,-5.5,143.6666667,Enga_Kewa-Huli,Trans-New Guinea,Lexicon
+eng,English,2,Different,52,0,Germanic,Indo-European,Lexicon
+ese,Ese Ejja,2,Different,-11,-66,Tacanan,Pano-Tacanan,Lexicon
+eud,Eudeve,1,Identical,29.16666667,-109.6666667,Opata-Eudeve,Uto-Aztecan,Lexicon
+eve,Evenki,2,Different,56,125,Tungusic,Altaic,Lexicon
+eya,Eyak,2,Different,60.5,-145,Eyak,Na-Dene,Lexicon
+fij,Fijian,2,Different,-17.83333333,178,Oceanic,Austronesian,Lexicon
+fin,Finnish,2,Different,62,25,Finnic,Uralic,Lexicon
+for,Fore,2,Different,-6.75,145.5,Fore-Gimi,Trans-New Guinea,Lexicon
+fox,Fox,2,Different,43,-83,Algonquian,Algic,Lexicon
+fre,French,2,Different,48,2,Romance,Indo-European,Lexicon
+fut,Futuna-Aniwa,2,Different,-19.53333333,170.2166667,Oceanic,Austronesian,Lexicon
+gad,Gade,2,Different,8.666666667,7.416666667,Gade,Niger-Congo,Lexicon
+gae,Gaelic (Scots),2,Different,57,-4,Celtic,Indo-European,Lexicon
+geo,Georgian,2,Different,42,44,Kartvelian,Kartvelian,Lexicon
+ger,German,2,Different,52,10,Germanic,Indo-European,Lexicon
+gid,Gidabal,2,Different,-28.41666667,152.4166667,Southeastern Pama-Nyungan,Pama-Nyungan,Lexicon
+git,Gitksan,2,Different,55.33333333,-127.75,Tsimshianic,Tsimshianic,Lexicon
+goa,Goajiro,2,Different,12,-72,Guajiro-Paraujano,Arawakan,Lexicon
+grk,Greek (Modern),2,Different,39,22,Greek,Indo-European,Lexicon
+gre,Greenlandic (East),2,Different,65,-40,Eskimo,Eskimo-Aleut,Lexicon
+ghb,Guahibo,2,Different,5,-69,Guahiban,Guahiban,Lexicon
+gjj,Guajajara,2,Different,-5,-46,Maweti-Guarani,Tupian,Lexicon
+gmb,Guambiano,2,Different,2.5,-76.66666667,Barbacoan,Barbacoan,Lexicon
+gna,Guana,2,Different,-22,-58,Mascoian,Mascoian,Lexicon
+gno,Guanano,2,Different,0.833333333,-69.5,Tucanoan,Tucanoan,Lexicon
+gua,Guaran√≠,2,Different,-26,-56,Maweti-Guarani,Tupian,Lexicon
+gto,Guat√≥,2,Different,-17,-58,Guat√≥,Guat√≥,Lexicon
+gyb,Guayabero,2,Different,2.833333333,-72,Guahiban,Guahiban,Lexicon
+gul,Gula (in Central African Republic),2,Different,9.5,22.5,Bongo-Bagirmi,Central Sudanic,Lexicon
+grm,Gurma,2,Different,12.25,1,Oti-Volta,Niger-Congo,Lexicon
+guu,Guugu Yimidhirr,2,Different,-15,144.8333333,Northern Pama-Nyungan,Pama-Nyungan,Lexicon
+gku,G√ºn√ºna K√ºne,2,Different,-41,-67,Puelche,Chonan,Lexicon
+hai,Haida,2,Different,53,-132,Haida,Haida,Lexicon
+hau,Hausa,2,Different,12,7,West Chadic,Afro-Asiatic,Lexicon
+haw,Hawaiian,1,Identical,19.58333333,-155.5,Oceanic,Austronesian,Lexicon
+heb,Hebrew (Modern),2,Different,31.5,34.83333333,Semitic,Afro-Asiatic,Lexicon
+hid,Hidatsa,2,Different,47,-102.5,Missouri River Siouan,Siouan,Lexicon
+hil,Hiligaynon,2,Different,10.25,123,Greater Central Philippine,Austronesian,Lexicon
+hmd,Hmong Daw,2,Different,26,105,Hmongic,Hmong-Mien,Lexicon
+hop,Hopi,2,Different,36,-110,Northern Uto-Aztecan,Uto-Aztecan,Lexicon
+hmb,Huambisa,2,Different,-4,-78,Jivaroan,Jivaroan,Lexicon
+htc,Huastec,2,Different,22.08333333,-99.33333333,Mayan,Mayan,Lexicon
+hve,Huave (San Mateo del Mar),2,Different,16.21666667,-95,Huavean,Huavean,Lexicon
+hui,Huichol,2,Different,22,-104,Corachol,Uto-Aztecan,Lexicon
+hmi,Huitoto (Minica),2,Different,-0.333333333,-74,Witoto,Witotoan,Lexicon
+hmu,Huitoto (Muinane),2,Different,-2.416666667,-71,Witoto,Witotoan,Lexicon
+hum,Huitoto (Murui),2,Different,-1,-73.5,Witoto,Witotoan,Lexicon
+hun,Hungarian,2,Different,47,20,Ugric,Uralic,Lexicon
+hpd,Hup,2,Different,0.166666667,-69.25,Nadahup,Nadahup,Lexicon
+hup,Hupa,1,Identical,41.08333333,-123.6666667,Athapaskan,Na-Dene,Lexicon
+ifu,Ifugao (Batad),2,Different,16.83333333,121.0833333,Northern Luzon,Austronesian,Lexicon
+igb,Igbo,2,Different,6,7.333333333,Igboid,Niger-Congo,Lexicon
+ik,Ik,2,Different,3.75,34.16666667,Kuliak,Eastern Sudanic,Lexicon
+ika,Ika,2,Different,10.66666667,-73.75,Arhuacic,Chibchan,Lexicon
+ill,Illinois,2,Different,40,-90,Algonquian,Algic,Lexicon
+ilo,Ilocano,2,Different,16,121,Northern Luzon,Austronesian,Lexicon
+ind,Indonesian,2,Different,0,106,Malayo-Sumbawan,Austronesian,Lexicon
+iql,Inuktitut (Quebec-Labrador),2,Different,62,-73,Eskimo,Eskimo-Aleut,Lexicon
+iri,Irish,2,Different,53,-8,Celtic,Indo-European,Lexicon
+ita,Italian,2,Different,43,12,Romance,Indo-European,Lexicon
+itw,Itawis,2,Different,17.75,121.5,Northern Luzon,Austronesian,Lexicon
+itz,Itzaj,2,Different,17,-89.83333333,Mayan,Mayan,Lexicon
+ixc,Ixcatec,2,Different,17.83333333,-97.16666667,Popolocan,Oto-Manguean,Lexicon
+ixi,Ixil,2,Different,15.5,-91,Mayan,Mayan,Lexicon
+inu,I√±upiaq,1,Identical,67,-161,Eskimo,Eskimo-Aleut,Lexicon
+jak,Jakaltek,2,Different,15.66666667,-91.66666667,Mayan,Mayan,Lexicon
+jpn,Japanese,2,Different,37,140,Japanese,Japanese,Lexicon
+jeh,Jeh,2,Different,15.16666667,107.8333333,Bahnaric,Austro-Asiatic,Lexicon
+jiv,Jivaro,1,Identical,-2.5,-78,Jivaroan,Jivaroan,Lexicon
+jmo,Jur M√∂d√∂,2,Different,6,30,Bongo-Bagirmi,Central Sudanic,Lexicon
+juh,Ju|'hoan,2,Different,-19,21,Ju-Kung,Kxa,Lexicon
+kek,K'ekch√≠,2,Different,16,-89.83333333,Mayan,Mayan,Lexicon
+kdz,Kadazan,2,Different,5.916666667,117.1666667,North Borneo,Austronesian,Lexicon
+kng,Kaingang,2,Different,-26,-52,Je Meridional,Macro-Ge,Lexicon
+klz,Kalanga,2,Different,-20.5,27.5,Bantu,Niger-Congo,Lexicon
+kls,Kalispel,1,Identical,48,-117,Interior Salish,Salishan,Lexicon
+kmk,Kalmyk,2,Different,44,83,Mongolic,Altaic,Lexicon
+kgt,Kangiryuarmiut,2,Different,68.33333333,-133.75,Eskimo,Eskimo-Aleut,Lexicon
+kea,Kanjobal (Eastern),2,Different,15.33333333,-91.66666667,Mayan,Mayan,Lexicon
+kwe,Kanjobal (Western),2,Different,15.83333333,-91.83333333,Mayan,Mayan,Lexicon
+kky,Kankanay,2,Different,16.75,120.5833333,Northern Luzon,Austronesian,Lexicon
+knd,Kannada,2,Different,14,76,Dravidian,Dravidian,Lexicon
+knr,Kanuri,2,Different,12,13,Western Saharan,Saharan,Lexicon
+kpn,Kapingamarangi,2,Different,1.05,154.75,Oceanic,Austronesian,Lexicon
+krc,Karachay-Balkar,2,Different,43.5,42,Turkic,Altaic,Lexicon
+jva,Karaj√°,1,Identical,-10,-50.33333333,Karaj√°,Macro-Ge,Lexicon
+kkw,Karankawa,1,Identical,28,-97,Karankawa,Karankawa,Lexicon
+kdg,Karipuna (Panoan),2,Different,-10,-65,Panoan,Pano-Tacanan,Lexicon
+krk,Karok,1,Identical,41.66666667,-123,Karok,Hokan,Lexicon
+kas,Kashmiri,2,Different,34,76,Indic,Indo-European,Lexicon
+ktu,Katu,2,Different,15.83333333,107.5833333,Katuic,Austro-Asiatic,Lexicon
+kaq,Kaurna,1,Identical,-34.25,138.5,Central Pama-Nyungan,Pama-Nyungan,Lexicon
+kws,Kawaiisu,2,Different,36,-117.5,Northern Uto-Aztecan,Uto-Aztecan,Lexicon
+kaz,Kazakh,2,Different,50,70,Turkic,Altaic,Lexicon
+ksa,Keresan (Santa Ana),1,Identical,35.41666667,-106.6666667,Keresan,Keresan,Lexicon
+kew,Kewa,2,Different,-6.5,143.8333333,Enga_Kewa-Huli,Trans-New Guinea,Lexicon
+khk,Khakas,2,Different,53,90,Turkic,Altaic,Lexicon
+khg,Khaling,2,Different,27.5,86.66666667,Himalayish,Sino-Tibetan,Lexicon
+kha,Khalkha,2,Different,47,105,Mongolic,Altaic,Lexicon
+kmh,Kham,2,Different,28.5,82.75,Himalayish,Sino-Tibetan,Lexicon
+kic,Kickapoo,2,Different,42.25,-84,Algonquian,Algic,Lexicon
+klw,Kiliwa,2,Different,31.33333333,-115.6666667,Yuman,Hokan,Lexicon
+kio,Kiowa,2,Different,37,-99,Kiowa-Tanoan,Kiowa-Tanoan,Lexicon
+kgz,Kirghiz,2,Different,42,75,Turkic,Altaic,Lexicon
+kis,Kisi,2,Different,8.833333333,-10.16666667,Southern Mel,Niger-Congo,Lexicon
+ktb,Kituba,2,Different,-5,17.5,Creoles and Pidgins,other,Lexicon
+klm,Klamath,2,Different,42.5,-121.5,Klamath-Modoc,Penutian,Lexicon
+koa,Koasati,2,Different,34.83333333,-85.16666667,Muskogean,Muskogean,Lexicon
+kon,Kongo,2,Different,-5,15,Bantu,Niger-Congo,Lexicon
+kor,Korean,2,Different,37.5,128,Korean,Korean,Lexicon
+kje,Koreguaje,2,Different,1,-75.5,Tucanoan,Tucanoan,Lexicon
+kfe,Koromfe,2,Different,14.25,-0.916666667,Koromfe,Niger-Congo,Lexicon
+kos,Kosraean,2,Different,5.3,163,Oceanic,Austronesian,Lexicon
+kyn,Koyukon,2,Different,65,-155,Athapaskan,Na-Dene,Lexicon
+kro,Krongo,2,Different,10.5,30,Kadugli,Kadu,Lexicon
+knc,Kugu Nganhcara,2,Different,-14.41666667,142,Northern Pama-Nyungan,Pama-Nyungan,Lexicon
+kul,Kullo,2,Different,6.75,37.08333333,Ta-Ne-Omotic,Afro-Asiatic,Lexicon
+kuq,Kumyk,2,Different,43,47.33333333,Turkic,Altaic,Lexicon
+kun,Kuna,2,Different,8,-77.33333333,Kuna,Chibchan,Lexicon
+kth,Kutchin,2,Different,67,-146,Athapaskan,Na-Dene,Lexicon
+kut,Kutenai,2,Different,49.5,-116,Kutenai,Kutenai,Lexicon
+kwa,Kwaio,2,Different,-8.95,161,Oceanic,Austronesian,Lexicon
+kxo,Kxoe,1,Identical,-17.5,22.5,Khoe-Kwadi,Khoe-Kwadi,Lexicon
+kat,K√¢te,2,Different,-6.5,147.75,Huon,Trans-New Guinea,Lexicon
+lao,Lao,2,Different,18,103,Kam-Tai,Tai-Kadai,Lexicon
+lau,Lau,2,Different,-9.583333333,161.5,Oceanic,Austronesian,Lexicon
+len,Lenakel,2,Different,-19.45,169.25,Oceanic,Austronesian,Lexicon
+lez,Lezgian,2,Different,41.66666667,47.83333333,Lezgic,Nakh-Daghestanian,Lexicon
+lit,Lithuanian,2,Different,55,24,Baltic,Indo-European,Lexicon
+ara,Lokono,2,Different,5.5,-55.16666667,Antillean Arawakan,Arawakan,Lexicon
+lnw,Lonwolwol,2,Different,-16.21666667,168,Oceanic,Austronesian,Lexicon
+lui,Luise√±o,2,Different,33.33333333,-117.1666667,Northern Uto-Aztecan,Uto-Aztecan,Lexicon
+lus,Lushootseed,2,Different,48,-122,Central Salish,Salishan,Lexicon
+mab,Maba,2,Different,13.75,20.83333333,Maban,Maban,Lexicon
+mcg,Macagu√°n,2,Different,6.5,-71.33333333,Guahiban,Guahiban,Lexicon
+mch,Machiguenga,2,Different,-12,-72.66666667,Pre-Andine Arawakan,Arawakan,Lexicon
+mcn,Macuna,2,Different,-0.333333333,-70.16666667,Tucanoan,Tucanoan,Lexicon
+mhc,Mahican,2,Different,42.66666667,-73.5,Algonquian,Algic,Lexicon
+mne,Maidu (Northeast),2,Different,40,-120.6666667,Maiduan,Penutian,Lexicon
+mai,Maithili,2,Different,26,86,Indic,Indo-European,Lexicon
+mal,Malagasy,2,Different,-20,47,Barito,Austronesian,Lexicon
+mym,Malayalam,2,Different,10,76.5,Dravidian,Dravidian,Lexicon
+mnc,Manchu,2,Different,49.5,127.5,Tungusic,Altaic,Lexicon
+mnd,Mandarin,2,Different,34,110,Chinese,Sino-Tibetan,Lexicon
+myi,Mangarrayi,2,Different,-14.66666667,133.5,Mangarrayi,Mangarrayi-Maran,Lexicon
+mgg,Mangghuer,2,Different,36,102,Mongolic,Altaic,Lexicon
+mwb,Manobo (Western Bukidnon),2,Different,7.666666667,124.75,Greater Central Philippine,Austronesian,Lexicon
+mao,Maori,2,Different,-40,176,Oceanic,Austronesian,Lexicon
+mpy,Mapoyo,2,Different,6,-67,Cariban,Cariban,Lexicon
+map,Mapudungun,2,Different,-38,-72,Araucanian,Araucanian,Lexicon
+mku,Maranungku,1,Identical,-13.66666667,130,Wagaydy,Western Daly,Lexicon
+mhi,Marathi,2,Different,19,76,Indic,Indo-European,Lexicon
+msh,Marshallese,2,Different,7.116666667,171.05,Oceanic,Austronesian,Lexicon
+mrt,Martuthunira,2,Different,-20.83333333,116.5,Western Pama-Nyungan,Pama-Nyungan,Lexicon
+mtt,Massachusett,2,Different,42.5,-71,Algonquian,Algic,Lexicon
+myr,Mats√©s,2,Different,-5.416666667,-73.25,Panoan,Pano-Tacanan,Lexicon
+sum,Mayangna,2,Different,13,-84.5,Misumalpan,Misumalpan,Lexicon
+myo,Mayo,2,Different,26,-108,Cahita,Uto-Aztecan,Lexicon
+maz,Mazahua,2,Different,19.41666667,-99.91666667,Otomian,Oto-Manguean,Lexicon
+mzc,Mazatec (Chiquihuitl√°n),2,Different,17.75,-96.91666667,Popolocan,Oto-Manguean,Lexicon
+mby,Mbay,2,Different,8.25,17.5,Bongo-Bagirmi,Central Sudanic,Lexicon
+men,Menomini,2,Different,45.5,-88.33333333,Algonquian,Algic,Lexicon
+mer,Meryam Mir,2,Different,-9.916666667,144.0833333,Eastern Trans-Fly,Eastern Trans-Fly,Lexicon
+mic,Micmac,2,Different,45,-63,Algonquian,Algic,Lexicon
+mid,Midob,2,Different,15.08333333,26.25,Nubian,Eastern Sudanic,Lexicon
+mij,Miju,2,Different,29,96,Kman-Meyor,Sino-Tibetan,Lexicon
+mis,Miskito,2,Different,14,-83.66666667,Misumalpan,Misumalpan,Lexicon
+mkb,Miwok (Bodega),2,Different,38.33333333,-123,Miwok,Penutian,Lexicon
+mcs,Miwok (Central Sierra),2,Different,38,-120.3333333,Miwok,Penutian,Lexicon
+mwl,Miwok (Lake),2,Different,38.91666667,-122.6666667,Miwok,Penutian,Lexicon
+mwn,Miwok (Northern Sierra),1,Identical,38.33333333,-120.6666667,Miwok,Penutian,Lexicon
+mwp,Miwok (Plains),1,Identical,38,-121,Miwok,Penutian,Lexicon
+mss,Miwok (Southern Sierra),2,Different,37.5,-120,Miwok,Penutian,Lexicon
+mco,Mixe (Coatl√°n),2,Different,16.91666667,-95.66666667,Mixe-Zoque,Mixe-Zoque,Lexicon
+mtp,Mixe (Totontepec),2,Different,17.25,-96,Mixe-Zoque,Mixe-Zoque,Lexicon
+mxu,Mixtec (Chayuco),2,Different,16.41666667,-97.83333333,Mixtec,Oto-Manguean,Lexicon
+mjc,Mixtec (San Juan Colorado),2,Different,16.5,-98,Mixtec,Oto-Manguean,Lexicon
+mxg,Mixtec (San Miguel el Grande),2,Different,17.05,-97.56666667,Mixtec,Oto-Manguean,Lexicon
+miz,Mizo,2,Different,23.16666667,92.83333333,Kuki-Chin,Sino-Tibetan,Lexicon
+moc,Moca,2,Different,7.583333333,35.5,Ta-Ne-Omotic,Afro-Asiatic,Lexicon
+mcv,Mocov√≠,2,Different,-28,-60.5,Qom,Guaicuruan,Lexicon
+mog,Moghol,2,Different,35,62,Mongolic,Altaic,Lexicon
+moh,Mohawk,1,Identical,43.5,-74.25,Northern Iroquoian,Iroquoian,Lexicon
+moj,Mojave,2,Different,34.66666667,-114.5833333,Yuman,Hokan,Lexicon
+mok,Mokilese,2,Different,6.666666667,159.75,Oceanic,Austronesian,Lexicon
+mtg,Montagnais,2,Different,52,-65,Algonquian,Algic,Lexicon
+mop,Mopan,2,Different,16.58333333,-88.66666667,Mayan,Mayan,Lexicon
+mos,Moset√©n,2,Different,-14.75,-67.83333333,Mosetenan,Mosetenan,Lexicon
+mov,Movima,2,Different,-13.83333333,-65.66666667,Movima,Movima,Lexicon
+mui,Muinane,2,Different,-1,-72.5,Boran,Boran,Lexicon
+mum,Mumuye,2,Different,9,11.66666667,Mumuye-Yandang,Niger-Congo,Lexicon
+muu,Munduruk√∫,1,Identical,-7,-58,Munduruku,Tupian,Lexicon
+mse,Munsee,2,Different,41.5,-74.66666667,Algonquian,Algic,Lexicon
+mup,Mupun,2,Different,9.5,8.833333333,West Chadic,Afro-Asiatic,Lexicon
+mpa,Murrinh-Patha,1,Identical,-14.66666667,129.6666667,Murrinh-Patha,Southern Daly,Lexicon
+mut,Mutsun,2,Different,36.83333333,-121.5,Costanoan,Penutian,Lexicon
+muy,Muyuw,2,Different,-9.083333333,152.75,Oceanic,Austronesian,Lexicon
+nhu,Nahuatl (Huauchinango),2,Different,20.16666667,-98.08333333,Aztecan,Uto-Aztecan,Lexicon
+npa,Nahuatl (Pajapan),2,Different,18.25,-94.75,Aztecan,Uto-Aztecan,Lexicon
+nsz,Nahuatl (Sierra de Zacapoaxtla),2,Different,19.58333333,-97.33333333,Aztecan,Uto-Aztecan,Lexicon
+nht,Nahuatl (Tetelcingo),2,Different,19.66666667,-99,Aztecan,Uto-Aztecan,Lexicon
+nhx,Nahuatl (Xalitla),2,Different,18,-99.5,Aztecan,Uto-Aztecan,Lexicon
+nnm,Nanumea,2,Different,-5.666666667,176.1166667,Oceanic,Austronesian,Lexicon
+nas,Nasioi,2,Different,-6.333333333,155.5833333,South Bougainville,South Bougainville,Lexicon
+nsk,Naskapi,2,Different,56,-70,Algonquian,Algic,Lexicon
+nat,Natchez,1,Identical,31.75,-91.33333333,Natchez,Natchez,Lexicon
+nav,Navajo,1,Identical,36.16666667,-108,Athapaskan,Na-Dene,Lexicon
+ndj,Ndj√©bbana,1,Identical,-12.16666667,134.1166667,Ndj√©bbana,Mangrida,Lexicon
+nne,Nengone,2,Different,-21.5,168,Oceanic,Austronesian,Lexicon
+nep,Nepali,2,Different,28,85,Indic,Indo-European,Lexicon
+nez,Nez Perce,1,Identical,46,-116,Sahaptian,Penutian,Lexicon
+ntj,Ngaanyatjarra,2,Different,-26,126.5,Western Pama-Nyungan,Pama-Nyungan,Lexicon
+ngj,Ngadjumaja,1,Identical,-32.33333333,123.8333333,Western Pama-Nyungan,Pama-Nyungan,Lexicon
+ngn,Ngandi,2,Different,-13.83333333,135,Eastern Gunwinyguan,Gunwinyguan,Lexicon
+nlu,Ngarluma,2,Different,-20.83333333,117.5,Western Pama-Nyungan,Pama-Nyungan,Lexicon
+ngi,Ngiyambaa,1,Identical,-31.75,145.5,Southeastern Pama-Nyungan,Pama-Nyungan,Lexicon
+ngz,Ngizim,1,Identical,12.08333333,10.91666667,West Chadic,Afro-Asiatic,Lexicon
+nbr,Ng√§bere,2,Different,8.666666667,-82,Guaymiic,Chibchan,Lexicon
+nro,Nharo,2,Different,-22.33333333,20.5,Khoe-Kwadi,Khoe-Kwadi,Lexicon
+nsn,Nisenan,2,Different,39,-121,Maiduan,Penutian,Lexicon
+niu,Niuean,2,Different,-19.05,-170.1166667,Oceanic,Austronesian,Lexicon
+chu,Nivacle,2,Different,-23.5,-60.5,Matacoan,Matacoan,Lexicon
+nko,Nkore-Kiga,2,Different,-0.916666667,29.83333333,Bantu,Niger-Congo,Lexicon
+nog,Noghay,2,Different,44,46,Turkic,Altaic,Lexicon
+nom,Nomatsiguenga,2,Different,-11.66666667,-74.5,Pre-Andine Arawakan,Arawakan,Lexicon
+nor,Norwegian,2,Different,61,8,Germanic,Indo-European,Lexicon
+nbd,Nubian (Dongolese),2,Different,18.25,30.75,Nubian,Eastern Sudanic,Lexicon
+nuk,Nukak,2,Different,2.5,-71.5,Cacua-Nukak,Cacua-Nukak,Lexicon
+nkr,Nukuoro,2,Different,3.833333333,154.9166667,Oceanic,Austronesian,Lexicon
+nun,Nung (in Vietnam),2,Different,21.91666667,106.4166667,Kam-Tai,Tai-Kadai,Lexicon
+nug,Nunggubuyu,1,Identical,-13.75,135.6666667,Nunggubuyu,Gunwinyguan,Lexicon
+nuu,Nuuchahnulth,2,Different,49.66666667,-126.6666667,Southern Wakashan,Wakashan,Lexicon
+nym,Nyamwezi,2,Different,-5,33,Bantu,Niger-Congo,Lexicon
+nya,Nyawaygi,2,Different,-19,146.1666667,Northern Pama-Nyungan,Pama-Nyungan,Lexicon
+nju,Nyungar,2,Different,-33.75,122,Western Pama-Nyungan,Pama-Nyungan,Lexicon
+ood,O'odham,2,Different,32,-112,Tepiman,Uto-Aztecan,Lexicon
+oca,Ocaina,2,Different,-2.75,-71.75,Witoto,Witotoan,Lexicon
+oji,Ojibwa (Eastern),2,Different,46,-80,Algonquian,Algic,Lexicon
+ojm,Ojibwe (Minnesota),1,Identical,47.66666667,-92.5,Algonquian,Algic,Lexicon
+oka,Okanagan,2,Different,49.5,-118.5,Interior Salish,Salishan,Lexicon
+olu,Olutec,2,Different,17.95,-95,Mixe-Zoque,Mixe-Zoque,Lexicon
+ond,Oneida,1,Identical,43,-75.66666667,Northern Iroquoian,Iroquoian,Lexicon
+onn,Onondaga,1,Identical,42.75,-76.16666667,Northern Iroquoian,Iroquoian,Lexicon
+ore,Orej√≥n,2,Different,-2.833333333,-72.5,Tucanoan,Tucanoan,Lexicon
+oko,Oriya (Kotia),2,Different,18.33333333,83,Indic,Indo-European,Lexicon
+owc,Oromo (West-Central),2,Different,9,37,Lowland East Cushitic,Afro-Asiatic,Lexicon
+osa,Osage,2,Different,37,-94,Mississippi Valley Siouan,Siouan,Lexicon
+osm,Otom√≠ (Santiago Mexquititlan),2,Different,20.08333333,-100.0833333,Otomian,Oto-Manguean,Lexicon
+pkn,Paakantyi,1,Identical,-32.5,142.5,Central Pama-Nyungan,Pama-Nyungan,Lexicon
+pac,Pacoh,1,Identical,16.41666667,107.0833333,Katuic,Austro-Asiatic,Lexicon
+pno,Paiute (Northern),2,Different,42,-118,Northern Uto-Aztecan,Uto-Aztecan,Lexicon
+pal,Palauan,2,Different,7.5,134.5833333,Palauan,Austronesian,Lexicon
+pnn,Pangasinan,2,Different,15.91666667,120.3333333,Northern Luzon,Austronesian,Lexicon
+pan,Panjabi,2,Different,31,74,Indic,Indo-European,Lexicon
+psm,Passamaquoddy-Maliseet,2,Different,45,-67,Algonquian,Algic,Lexicon
+pem,Pemon,2,Different,5.333333333,-62,Cariban,Cariban,Lexicon
+per,Pero,2,Different,9.583333333,11,West Chadic,Afro-Asiatic,Lexicon
+ppc,Piapoco,2,Different,4,-69.5,Japura-Colombia,Arawakan,Lexicon
+pia,Piaroa,2,Different,5,-67,Maco-Piaroa,S√°liban,Lexicon
+pin,Pintupi,1,Identical,-23,129,Western Pama-Nyungan,Pama-Nyungan,Lexicon
+pip,Pipil,2,Different,13.83333333,-89.58333333,Aztecan,Uto-Aztecan,Lexicon
+prt,Piratapuyo,2,Different,0.333333333,-69.5,Tucanoan,Tucanoan,Lexicon
+pir,Piro,2,Different,-11,-73.5,Purus,Arawakan,Lexicon
+pit,Pitjantjatjara,1,Identical,-26,130,Western Pama-Nyungan,Pama-Nyungan,Lexicon
+pla,Playero,2,Different,7,-71,Guahiban,Guahiban,Lexicon
+poh,Pohnpeian,2,Different,6.883333333,158.25,Oceanic,Austronesian,Lexicon
+pol,Polish,2,Different,52,20,Slavic,Indo-European,Lexicon
+pme,Pomo (Eastern),2,Different,39,-122.6666667,Pomoan,Hokan,Lexicon
+psj,Popoloca (San Juan Atzingo),2,Different,18.16666667,-96.41666667,Popolocan,Oto-Manguean,Lexicon
+psv,Popoloca (San Vicente Coyotepec),2,Different,18.25,-97.83333333,Popolocan,Oto-Manguean,Lexicon
+zqs,Popoluca (Sierra),2,Different,18.33333333,-95.16666667,Mixe-Zoque,Mixe-Zoque,Lexicon
+pcm,Poqomam,2,Different,14.66666667,-90.5,Mayan,Mayan,Lexicon
+por,Portuguese,2,Different,39,-8,Romance,Indo-European,Lexicon
+pow,Powhatan,2,Different,37.33333333,-76.5,Algonquian,Algic,Lexicon
+pui,Puinave,2,Different,4,-68,Puinave,Puinave,Lexicon
+pul,Puluwat,2,Different,7.333333333,149.3333333,Oceanic,Austronesian,Lexicon
+pur,Pur√©pecha,2,Different,19.5,-101.6666667,Tarascan,Tarascan,Lexicon
+pae,P√°ez,2,Different,2.666666667,-76,P√°ezan,P√°ezan,Lexicon
+qaw,Qawasqar,2,Different,-49,-75,Alacalufan,Alacalufan,Lexicon
+qan,Quechua (Ancash),2,Different,-8.5,-77.5,Quechuan,Quechuan,Lexicon
+qca,Quechua (Cajamarca),2,Different,-7,-78.5,Quechuan,Quechuan,Lexicon
+qec,Quechua (Ecuadorean),2,Different,-1,-79,Quechuan,Quechuan,Lexicon
+qch,Quich√©,2,Different,15,-91.41666667,Mayan,Mayan,Lexicon
+qui,Quileute,1,Identical,47.91666667,-124.25,Chimakuan,Chimakuan,Lexicon
+rad,Rade,2,Different,13,108.5,Malayo-Sumbawan,Austronesian,Lexicon
+ram,Rama,2,Different,11.75,-83.75,Rama,Chibchan,Lexicon
+rap,Rapanui,2,Different,-27.11666667,-109.3666667,Oceanic,Austronesian,Lexicon
+rng,Rengao,2,Different,14.58333333,107.8333333,Bahnaric,Austro-Asiatic,Lexicon
+rnn,Rennellese,2,Different,-11.61666667,160.25,Oceanic,Austronesian,Lexicon
+res,Res√≠garo,2,Different,-2.416666667,-71.5,Japura-Colombia,Arawakan,Lexicon
+ret,Retuar√£,2,Different,-0.5,-70.66666667,Tucanoan,Tucanoan,Lexicon
+rgn,Roglai (Northern),2,Different,12.16666667,108.8333333,Malayo-Sumbawan,Austronesian,Lexicon
+rom,Romanian,2,Different,46,25,Romance,Indo-European,Lexicon
+rus,Russian,2,Different,56,38,Slavic,Indo-European,Lexicon
+sno,Saami (Northern),2,Different,69,24,Saami,Uralic,Lexicon
+smt,Sahaptin (Umatilla),2,Different,45.66666667,-118.5,Sahaptian,Penutian,Lexicon
+sal,Salinan,2,Different,36,-121,Salinan,Hokan,Lexicon
+sss,Salish (Samish Straits),2,Different,48.58333333,-122.5833333,Central Salish,Salishan,Lexicon
+sam,Samoan,2,Different,-13.91666667,-171.8333333,Oceanic,Austronesian,Lexicon
+stl,Santali,2,Different,24.5,87,Munda,Austro-Asiatic,Lexicon
+say,Sayula Popoluca,2,Different,17.83333333,-95,Mixe-Zoque,Mixe-Zoque,Lexicon
+sec,Secoya,2,Different,-0.333333333,-76,Tucanoan,Tucanoan,Lexicon
+sed,Sedang,2,Different,14.83333333,108,Bahnaric,Austro-Asiatic,Lexicon
+sel,Selknam,2,Different,-53,-70,Chonan Proper,Chonan,Lexicon
+smj,Semai,2,Different,4.333333333,101.6666667,Aslian,Austro-Asiatic,Lexicon
+snc,Seneca,1,Identical,42.5,-77.5,Northern Iroquoian,Iroquoian,Lexicon
+scr,Serbian-Croatian,2,Different,44,19,Slavic,Indo-European,Lexicon
+ser,Seri,1,Identical,29,-112,Seri,Hokan,Lexicon
+shs,Shasta,1,Identical,41.83333333,-122.6666667,Shasta,Hokan,Lexicon
+shw,Shawnee,2,Different,40,-83,Algonquian,Algic,Lexicon
+shl,Shilluk,2,Different,9.666666667,31.75,Western Nilotic,Eastern Sudanic,Lexicon
+shk,Shipibo-Konibo,2,Different,-7.5,-75,Panoan,Pano-Tacanan,Lexicon
+shn,Shona,2,Different,-18,31,Bantu,Niger-Congo,Lexicon
+sho,Shoshone,2,Different,41,-114,Northern Uto-Aztecan,Uto-Aztecan,Lexicon
+shu,Shuswap,2,Different,52,-120,Interior Salish,Salishan,Lexicon
+snh,Sinhala,2,Different,7,80.5,Indic,Indo-European,Lexicon
+sin,Siona,2,Different,0.333333333,-76.25,Tucanoan,Tucanoan,Lexicon
+sri,Siriano,2,Different,0.75,-70.16666667,Tucanoan,Tucanoan,Lexicon
+sla,Slave,2,Different,67,-125,Athapaskan,Na-Dene,Lexicon
+slv,Slavey,2,Different,60,-120,Athapaskan,Na-Dene,Lexicon
+svk,Slovak,2,Different,49,20,Slavic,Indo-European,Lexicon
+sol,Solon,2,Different,48,120,Tungusic,Altaic,Lexicon
+son,Sonsorol-Tobi,2,Different,5.333333333,132.25,Oceanic,Austronesian,Lexicon
+sea,Southeast Ambrym,2,Different,-16.3,168.2166667,Oceanic,Austronesian,Lexicon
+spa,Spanish,2,Different,40,-4,Romance,Indo-European,Lexicon
+spo,Spokane,2,Different,47.66666667,-117.75,Interior Salish,Salishan,Lexicon
+squ,Squamish,2,Different,49.66666667,-123.1666667,Central Salish,Salishan,Lexicon
+sus,Susu,2,Different,10,-13,Western Mande,Mande,Lexicon
+sva,Svan,2,Different,43,42.5,Kartvelian,Kartvelian,Lexicon
+swa,Swahili,2,Different,-6.5,39,Bantu,Niger-Congo,Lexicon
+sba,S√°liba (in Colombia),2,Different,6,-70,S√°liba,S√°liban,Lexicon
+tac,Tacana,2,Different,-13.5,-68,Tacanan,Pano-Tacanan,Lexicon
+tag,Tagalog,2,Different,15,121,Greater Central Philippine,Austronesian,Lexicon
+tah,Tahitian,1,Identical,-17.66666667,-149.5833333,Oceanic,Austronesian,Lexicon
+tml,Tamil,2,Different,11,78.5,Dravidian,Dravidian,Lexicon
+tnj,Tanaina,2,Different,62,-150,Athapaskan,Na-Dene,Lexicon
+tnl,Tanana (Lower),2,Different,65,-150,Athapaskan,Na-Dene,Lexicon
+tga,Tangga,2,Different,-3.466666667,153.2,Oceanic,Austronesian,Lexicon
+tpt,Tapiet√©,2,Different,-19.75,-61.66666667,Maweti-Guarani,Tupian,Lexicon
+tce,Tarahumara (Central),2,Different,27.5,-107.5,Tarahumaran,Uto-Aztecan,Lexicon
+tar,Tariana,2,Different,1,-69.16666667,Japura-Colombia,Arawakan,Lexicon
+toy,Tasmanian (Oyster Bay to Pitwater),1,Identical,-42.5,147.75,Tasmanian,Tasmanian,Lexicon
+tvo,Tatar,2,Different,56,49.5,Turkic,Altaic,Lexicon
+tty,Tatuyo,2,Different,0.416666667,-70.5,Tucanoan,Tucanoan,Lexicon
+tsg,Tausug,2,Different,6,121,Greater Central Philippine,Austronesian,Lexicon
+teh,Tehuelche,2,Different,-48,-68,Chonan Proper,Chonan,Lexicon
+tlf,Telefol,2,Different,-5,141.75,Ok,Trans-New Guinea,Lexicon
+trb,Teribe,2,Different,9.333333333,-82.66666667,Western Isthmic Chibchan,Chibchan,Lexicon
+tsj,Tewa (San Juan Pueblo),2,Different,36.08333333,-106.0833333,Kiowa-Tanoan,Kiowa-Tanoan,Lexicon
+tha,Thai,2,Different,16,101,Kam-Tai,Tai-Kadai,Lexicon
+tho,Thompson,1,Identical,49.75,-121.75,Interior Salish,Salishan,Lexicon
+tib,Tibetan (Standard Spoken),2,Different,30,91,Bodic,Sino-Tibetan,Lexicon
+tic,Ticuna,2,Different,-4,-70.5,Ticuna,Ticuna,Lexicon
+tbe,Tigr√© (Beni Amer),2,Different,15.5,38,Semitic,Afro-Asiatic,Lexicon
+twn,Tiwa (Northern),2,Different,36.5,-105.5,Kiowa-Tanoan,Kiowa-Tanoan,Lexicon
+tlp,Tlapanec,2,Different,17.08333333,-99,Subtiaba-Tlapanec,Oto-Manguean,Lexicon
+toa,Toaripi,2,Different,-8.333333333,146.25,Eleman,Eleman,Lexicon
+tob,Toba,2,Different,-26.5,-59,Qom,Guaicuruan,Lexicon
+toj,Tojolabal,2,Different,16.33333333,-91.5,Mayan,Mayan,Lexicon
+tpi,Tok Pisin,2,Different,-9.5,147.1666667,Creoles and Pidgins,other,Lexicon
+tol,Tol,2,Different,14.66666667,-87,Tol,Tol,Lexicon
+tpa,Totonac (Papantla),2,Different,20.33333333,-97.33333333,Totonacan,Totonacan,Lexicon
+tos,Totonac (Sierra),2,Different,19.91666667,-97.41666667,Totonacan,Totonacan,Lexicon
+txj,Totonac (Xicotepec de Ju√°rez),2,Different,20.41666667,-97.83333333,Totonacan,Totonacan,Lexicon
+trc,Trique (Chicahuaxtla),2,Different,17.16666667,-97.83333333,Trique,Oto-Manguean,Lexicon
+tsf,Tsafiki,2,Different,-1,-79.33333333,Barbacoan,Barbacoan,Lexicon
+tsi,Tsimshian (Coast),2,Different,52.5,-129,Tsimshianic,Tsimshianic,Lexicon
+tsw,Tswana,2,Different,-24,26,Bantu,Niger-Congo,Lexicon
+tua,Tuamotuan,1,Identical,-17,-144,Oceanic,Austronesian,Lexicon
+tub,Tubar,2,Different,27,-108,Tubar,Uto-Aztecan,Lexicon
+tuc,Tucano,2,Different,0.5,-69.16666667,Tucanoan,Tucanoan,Lexicon
+tnb,Tunebo,2,Different,6.75,-72.25,Tunebo,Chibchan,Lexicon
+tun,Tunica,1,Identical,32.66666667,-91,Tunica,Tunica,Lexicon
+tup,Tupi,2,Different,-6,-36,Maweti-Guarani,Tupian,Lexicon
+tna,Turkana,2,Different,3,35.5,Eastern Nilotic,Eastern Sudanic,Lexicon
+tur,Turkish,2,Different,39,35,Turkic,Altaic,Lexicon
+tkm,Turkmen,2,Different,40,58,Turkic,Altaic,Lexicon
+tus,Tuscarora,2,Different,36,-77.5,Northern Iroquoian,Iroquoian,Lexicon
+tut,Tutchone (Northern),2,Different,63,-137,Athapaskan,Na-Dene,Lexicon
+tuy,Tuyuca,2,Different,0.5,-70.08333333,Tucanoan,Tucanoan,Lexicon
+tze,Tzeltal,2,Different,16.83333333,-92.25,Mayan,Mayan,Lexicon
+tzt,Tzeltal (Tenejapa),2,Different,16.66666667,-92.33333333,Mayan,Mayan,Lexicon
+tzo,Tzotzil,2,Different,16.5,-92.66666667,Mayan,Mayan,Lexicon
+tsh,T√ºmpisa Shoshone,2,Different,37,-117,Northern Uto-Aztecan,Uto-Aztecan,Lexicon
+udh,Udihe,2,Different,47.66666667,136.25,Tungusic,Altaic,Lexicon
+ukr,Ukrainian,2,Different,49,33,Slavic,Indo-European,Lexicon
+uhi,Uradhi,2,Different,-11.91666667,142.4166667,Northern Pama-Nyungan,Pama-Nyungan,Lexicon
+urk,Urub√∫-Kaapor,1,Identical,-2.333333333,-46.5,Maweti-Guarani,Tupian,Lexicon
+ute,Ute,2,Different,39,-109,Northern Uto-Aztecan,Uto-Aztecan,Lexicon
+uzb,Uzbek,2,Different,39,66,Turkic,Altaic,Lexicon
+ved,Vedda,2,Different,7,81,Indic,Indo-European,Lexicon
+bno,Waimaha,2,Different,0.333333333,-70.25,Tucanoan,Tucanoan,Lexicon
+wam,Wambaya,1,Identical,-18.66666667,135.75,Wambayan,Mirndi,Lexicon
+wap,Wappo,2,Different,38.5,-122.5,Wappo,Wappo-Yukian,Lexicon
+wra,Warao,2,Different,9.333333333,-61.66666667,Warao,Warao,Lexicon
+wrd,Wardaman,2,Different,-15.5,131,Yangmanic,Yangmanic,Lexicon
+wrl,Warlpiri,1,Identical,-20,132.3333333,Western Pama-Nyungan,Pama-Nyungan,Lexicon
+wth,Wathawurrung,2,Different,-38,144,Southeastern Pama-Nyungan,Pama-Nyungan,Lexicon
+way,Wayampi,2,Different,1,-52,Maweti-Guarani,Tupian,Lexicon
+wel,Welsh,2,Different,52,-3,Celtic,Indo-European,Lexicon
+wem,Wembawemba,2,Different,-35.33333333,144,Southeastern Pama-Nyungan,Pama-Nyungan,Lexicon
+wic,Wichita,2,Different,33.33333333,-97.33333333,Northern Caddoan,Caddoan,Lexicon
+wch,Wich√≠,2,Different,-22.5,-62.58333333,Matacoan,Matacoan,Lexicon
+wmu,Wik Munkan,2,Different,-13.91666667,141.75,Northern Pama-Nyungan,Pama-Nyungan,Lexicon
+wnb,Winnebago,1,Identical,43.5,-88.5,Mississippi Valley Siouan,Siouan,Lexicon
+win,Wintu,1,Identical,41,-122.5,Wintuan,Penutian,Lexicon
+wir,Wirangu,2,Different,-32,134,Central Pama-Nyungan,Pama-Nyungan,Lexicon
+wiy,Wiyot,2,Different,40.83333333,-124.1666667,Wiyot,Algic,Lexicon
+wwr,Woiwurrung,2,Different,-37.5,145.5,Southeastern Pama-Nyungan,Pama-Nyungan,Lexicon
+wol,Woleaian,2,Different,7.333333333,143.8333333,Oceanic,Austronesian,Lexicon
+xer,Xer√©nte,2,Different,-10,-48.16666667,Je Central,Macro-Ge,Lexicon
+xok,Xokleng,1,Identical,-24.5,-50,Je Meridional,Macro-Ge,Lexicon
+xar,X√¢r√¢c√π√π,2,Different,-21.66666667,166,Oceanic,Austronesian,Lexicon
+ygr,Yagaria,1,Identical,-6.333333333,145.4166667,Siane-Yagaria,Trans-New Guinea,Lexicon
+yah,Yahgan,2,Different,-55,-68,Y√°mana,Y√°mana,Lexicon
+yak,Yaka,2,Different,-7,17.5,Bantu,Niger-Congo,Lexicon
+yan,Yana,1,Identical,40.5,-122,Yana,Hokan,Lexicon
+yap,Yapese,2,Different,9.583333333,138.1666667,Yapese,Austronesian,Lexicon
+yar,Yareba,2,Different,-9.5,148.5,Yareban,Trans-New Guinea,Lexicon
+yav,Yavapai,2,Different,34,-113.3333333,Yuman,Hokan,Lexicon
+yir,Yir Yoront,1,Identical,-14.83333333,141.8333333,Northern Pama-Nyungan,Pama-Nyungan,Lexicon
+yyo,Yorta Yorta,2,Different,-36,146,Southeastern Pama-Nyungan,Pama-Nyungan,Lexicon
+yct,Yucatec,2,Different,20,-89,Mayan,Mayan,Lexicon
+ycn,Yucuna,2,Different,-0.75,-71,Japura-Colombia,Arawakan,Lexicon
+yki,Yuki,2,Different,39.66666667,-123.5,Yuki,Wappo-Yukian,Lexicon
+ykp,Yukpa,1,Identical,10.16666667,-72.75,Cariban,Cariban,Lexicon
+yuk,Yukulta,1,Identical,-17.33333333,138.8333333,Tangkic,Tangkic,Lexicon
+ypk,Yup'ik (Central),2,Different,59.5,-160,Eskimo,Eskimo-Aleut,Lexicon
+yus,Yupik (Siberian),2,Different,65,-173,Eskimo,Eskimo-Aleut,Lexicon
+yrt,Yuruti,2,Different,1,-70.41666667,Tucanoan,Tucanoan,Lexicon
+zai,Zapotec (Isthmus),2,Different,16.416667,-95,Zapotecan,Oto-Manguean,Lexicon
+zaj,Zapotec (Ju√°rez),2,Different,17.5,-96.58333333,Zapotecan,Oto-Manguean,Lexicon
+zap,Zapotec (Mitla),2,Different,16.8,-96.25,Zapotecan,Oto-Manguean,Lexicon
+zam,Zapotec (Mixtepec),2,Different,16.33333333,-96.33333333,Zapotecan,Oto-Manguean,Lexicon
+zzo,Zapotec (Zoogocho),2,Different,17.25,-96.25,Zapotecan,Oto-Manguean,Lexicon
+zqc,Zoque (Copainal√°),2,Different,17,-93.25,Mixe-Zoque,Mixe-Zoque,Lexicon
+zfl,Zoque (Francisco Le√≥n),2,Different,17.33333333,-93.25,Mixe-Zoque,Mixe-Zoque,Lexicon
+zqr,Zoque (Rayon),2,Different,17.08333333,-93,Mixe-Zoque,Mixe-Zoque,Lexicon
+zul,Zulu,2,Different,-30,30,Bantu,Niger-Congo,Lexicon
+zun,Zuni,2,Different,35.08333333,-108.8333333,Zuni,Zuni,Lexicon
