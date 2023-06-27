@@ -6,7 +6,7 @@
 #################################################
 
 #change the following path to wherever the data is stored
-setwd('~/cultural_causal/tonal_languages')
+setwd('~/relatives_and_neighbours/tonal_languages')
 
 #these packages will need to be installed before being load
 library("ggplot2")
