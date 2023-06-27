@@ -316,7 +316,7 @@ summary(glm)
 #################################################
 
 rm(list = ls())
-setwd('~/culture_causal/hand_finger') #again the path will need to be changed
+setwd('~/relatives_and_neighbours/hand_finger') #again the path will need to be changed
 
 #read in the WALS hand/finger database
 df <- read.csv('hand_finger.csv')
