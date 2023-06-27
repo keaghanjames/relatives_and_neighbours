@@ -21,9 +21,9 @@ Kummu M, Varis O (2011) The world by latitudes: A global analysis of human popul
 
 Contents of hand_finger: 
 
-Supplementary_data_S1.csv, language database including endangerment scores. Obtained from the supplementary materials of Bromham L, Dinnage R, Skirgård H, Ritchie A, Cardillo M, Meakins F, Greenhill S, Hua X (2022) Global predictors of language endangerment and the future of linguistic diversity. Nature ecology & evolution 6(2):163-173
+- Supplementary_data_S1.csv, language database including endangerment scores. Obtained from the supplementary materials of Bromham L, Dinnage R, Skirgård H, Ritchie A, Cardillo M, Meakins F, Greenhill S, Hua X (2022) Global predictors of language endangerment and the future of linguistic diversity. Nature ecology & evolution 6(2):163-173
 
-hand_finger.csv - WALS database for hand/finger lexical category, Brown CH (2013) Finger and Hand. In: Dryer MS, Haspelmath M (eds) WALS Online (v2020.3). https://doi.org/10.5281/zenodo.7385533 Zenodo
+- hand_finger.csv - WALS database for hand/finger lexical category, Brown CH (2013) Finger and Hand. In: Dryer MS, Haspelmath M (eds) WALS Online (v2020.3). https://doi.org/10.5281/zenodo.7385533 Zenodo
 
 
 
